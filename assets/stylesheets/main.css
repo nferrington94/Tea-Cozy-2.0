@@ -156,11 +156,11 @@ nav li{
   line-height:2em;
 }
 
-//Screen Responsive
+/*Screen Responsive
 
-/*Change Navigation to Collapse
+Change Navigation to Collapse
 Featured Height Bigger/Hide overflow
-Location Stores To column*/
+Location Stores To column
 
 //Phone Large
 
@@ -185,3 +185,4 @@ Location Stores To column*/
     background-color: lightblue;
   }
 }
+*/
